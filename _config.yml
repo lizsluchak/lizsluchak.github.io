@@ -1,5 +1,5 @@
 title: Liz Sluchak
-logo: /assets/headshot.jpg
-description: [Portfolio]
+logo: [/assets/headshot.jpg]
+description: [Personal Site]
 show_downloads: false
 theme: jekyll-theme-minimal
