@@ -11,7 +11,7 @@ queerness
 
 
 ### Projects
-#### Kanbas: Web Development @ NEU
+##### Kanbas: Web Development @ NEU
 [Github](https://www.mdpi.com/1424-8220/22/8/3048)
 
 A fullstack project web dev course using: redux,
@@ -19,7 +19,7 @@ A fullstack project web dev course using: redux,
 
 ![Kanbas](/assets/kanbas.jpg)
 
-#### Dreamy: Mobile App Development @ NEU
+##### Dreamy: Mobile App Development @ NEU
 [Github](https://www.mdpi.com/1424-8220/22/11/4240)
 
 add
